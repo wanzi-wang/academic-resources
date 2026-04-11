@@ -18,6 +18,7 @@ Curated links and resources for economics, econometrics, and causal inference re
 - [Econometrics Academy](https://sites.google.com/site/econometricsacademy/home) — Video lectures and course materials by Ani Katchova
 - [Causal Inference: The Mixtape](https://mixtape.scunning.com/) — Free online textbook by Scott Cunningham
 - [ARE 213: Applied Econometrics](https://github.com/borusyak/are213/blob/main/A1_regression.pdf) — Regression notes by Kirill Borusyak (UC Berkeley)
+- [A Guide on Data Analysis](https://mike-data-analysis.share.connect.posit.cloud/index.html) — Nguyen, M. (2025). Foundations of data analysis (Vol. 1). Springer Cham. https://doi.org/10.1007/978-3-032-01858-8
 
 ## Causal Inference
 
@@ -26,7 +27,6 @@ Curated links and resources for economics, econometrics, and causal inference re
 
 ## Statistics & Data Analysis
 
-- [Data Analysis](https://bookdown.org/mike/data_analysis/) — Free online textbook covering core data analysis methods
 - [StatQuest](https://www.youtube.com/@statquest) — YouTube channel with clear, visual explanations of statistics and machine learning
 
 ## Seminars
@@ -34,7 +34,13 @@ Curated links and resources for economics, econometrics, and causal inference re
 - [Online Causal Inference Seminar (OCIS)](https://sites.google.com/view/ocis/home) — Run by Stanford Data Science
 - [Chamberlain Online Seminar in Econometrics](https://sites.google.com/view/chamberlainseminar/home) — Online econometrics seminar series
 - [Applied Economics Workshop (AEW)](https://sites.google.com/view/economicseminar/home) — Online applied economics seminar
+- [Empirical Microeconomics Workshop](https://www.cirje.e.u-tokyo.ac.jp/research/workshops/emf/emf.html) — On-site & Online empirical microeconomics workshop
+- [GEM Seminar](https://www.anderson.ucla.edu/faculty-and-research/global-economics-and-management/seminars-and-events) On-site & Online political economy workshop
 
 ## Pre-Doctoral Resources
 
 - [PreDoc.org](https://www.predoc.org/) — Resources and guidance for pre-doctoral research positions in economics
+- [AEA Summer and Scholarship Programs](https://www.aeaweb.org/about-aea/committees/aeasp)
+- [UChicago Summer Institute in Social Research Methods](https://voices.uchicago.edu/socscisummermethods/)
+- [Georgetown Political Science Predoctoral Summer Institute (PS-PSI)](https://government.georgetown.edu/ps-psi/) Notes: location of degree completed is required within the U.S.
+

@@ -10,6 +10,7 @@ Curated links and resources for economics, econometrics, and causal inference re
 - [Statistics & Data Analysis](#statistics--data-analysis)
 - [Seminars](#seminars)
 - [Pre-Doctoral Resources](#pre-doctoral-resources)
+- [Research Proposals](#research-proposals)
 
 ---
 
@@ -44,3 +45,6 @@ Curated links and resources for economics, econometrics, and causal inference re
 - [UChicago Summer Institute in Social Research Methods](https://voices.uchicago.edu/socscisummermethods/)
 - [Georgetown Political Science Predoctoral Summer Institute (PS-PSI)](https://government.georgetown.edu/ps-psi/) Notes: location of degree completed is required within the U.S.
 
+## Research Proposals
+
+- [IP Location Disclosure on Chinese Social Media and Support for State Digital Control](research-proposals/Wang_CausalInfrerence2026_ProposalPresentation.pdf) — Causal inference research proposal presentation slides by Wanzi Wang

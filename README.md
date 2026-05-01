@@ -37,6 +37,7 @@ Curated links and resources for economics, econometrics, and causal inference re
 - [Applied Economics Workshop (AEW)](https://sites.google.com/view/economicseminar/home) — Online applied economics seminar
 - [Empirical Microeconomics Workshop](https://www.cirje.e.u-tokyo.ac.jp/research/workshops/emf/emf.html) — On-site & Online empirical microeconomics workshop
 - [GEM Seminar](https://www.anderson.ucla.edu/faculty-and-research/global-economics-and-management/seminars-and-events) On-site & Online political economy workshop
+- [INOMICS](https://inomics.com/) — Listings of economics conferences, seminars, courses, and jobs
 
 ## Pre-Doctoral Resources
 

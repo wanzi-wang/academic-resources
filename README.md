@@ -45,6 +45,10 @@ Curated links and resources for economics, econometrics, and causal inference re
 - [AEA Summer and Scholarship Programs](https://www.aeaweb.org/about-aea/committees/aeasp)
 - [UChicago Summer Institute in Social Research Methods](https://voices.uchicago.edu/socscisummermethods/)
 - [Georgetown Political Science Predoctoral Summer Institute (PS-PSI)](https://government.georgetown.edu/ps-psi/) Notes: location of degree completed is required within the U.S.
+- [Economics Mentoring Program — PhD Application Resources](https://www.economicsmentoringprogram.com/phd-application-resources#h.9tw8qz2mx0gz)
+- [NBER — Research Assistant Positions (Not at NBER)](https://www.nber.org/career-resources/research-assistant-positions-not-nber)
+- [The RA Guide](https://raguide.github.io/)
+- [EconJobMarket](https://econjobmarket.org/market)
 
 ## Research Proposals
 
